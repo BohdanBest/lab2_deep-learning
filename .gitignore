@@ -1,0 +1,18 @@
+# IDE / OS
+.idea/
+.DS_Store
+*.DS_Store
+
+# Моделі
+*.h5
+*.keras
+*.onnx
+
+# Архіви та документи
+*.zip
+*.pdf
+
+# Віртуальне середовище
+.venv/
+venv/
+env/
